@@ -1,0 +1,123 @@
+[
+    {
+      "id": "1",
+      "title": "Om Mani Padme Hum",
+      "description": "The jewel in the lotus",
+      "duration": 10,
+      "image": "assets/images/om_mani.png",
+      "audioUrl": "assets/audio/om_mani.mp3",
+      "teacher": "Dalai Lama",
+      "category": "Compassion"
+    },
+    {
+      "id": "2",
+      "title": "Om Tare Tuttare Ture",
+      "description": "Green Tara mantra",
+      "duration": 8,
+      "image": "assets/images/green_tara.png",
+      "audioUrl": "assets/audio/green_tara.mp3",
+      "teacher": "Thich Nhat Hanh",
+      "category": "Protection"
+    },
+    {
+      "id": "3",
+      "title": "Nam Myoho Renge Kyo",
+      "description": "Lotus Sutra essence mantra",
+      "duration": 12,
+      "image": "assets/images/lotus_sutra.png",
+      "audioUrl": "assets/audio/lotus_sutra.mp3",
+      "teacher": "Nichiren",
+      "category": "Enlightenment"
+    },
+    {
+      "id": "4",
+      "title": "Om Ah Hum Vajra Guru Padma Siddhi Hum",
+      "description": "Guru Rinpoche mantra",
+      "duration": 15,
+      "image": "assets/images/guru_rinpoche.png",
+      "audioUrl": "assets/audio/guru_rinpoche.mp3",
+      "teacher": "Padmasambhava",
+      "category": "Transformation"
+    },
+    {
+      "id": "5",
+      "title": "Gate Gate Paragate Parasamgate Bodhi Svaha",
+      "description": "Heart Sutra mantra",
+      "duration": 9,
+      "image": "assets/images/heart_sutra.png",
+      "audioUrl": "assets/audio/heart_sutra.mp3",
+      "teacher": "Avalokiteshvara",
+      "category": "Wisdom"
+    },
+    {
+      "id": "6",
+      "title": "Om Vajrasattva Hum",
+      "description": "Purification mantra",
+      "duration": 7,
+      "image": "assets/images/vajrasattva.png",
+      "audioUrl": "assets/audio/vajrasattva.mp3",
+      "teacher": "Vajrasattva",
+      "category": "Purification"
+    },
+    {
+      "id": "7",
+      "title": "Om Amitabha Hrih",
+      "description": "Buddha of Infinite Light mantra",
+      "duration": 6,
+      "image": "assets/images/amitabha.png",
+      "audioUrl": "assets/audio/amitabha.mp3",
+      "teacher": "Amitabha Buddha",
+      "category": "Devotion"
+    },
+    {
+      "id": "8",
+      "title": "Om Benza Wiki Bitana Soha",
+      "description": "Medicine Buddha mantra",
+      "duration": 11,
+      "image": "assets/images/medicine_buddha.png",
+      "audioUrl": "assets/audio/medicine_buddha.mp3",
+      "teacher": "Medicine Buddha",
+      "category": "Healing"
+    },
+    {
+      "id": "9",
+      "title": "Om Muni Muni Maha Muniye Soha",
+      "description": "Shakyamuni Buddha mantra",
+      "duration": 8,
+      "image": "assets/images/shakyamuni.png",
+      "audioUrl": "assets/audio/shakyamuni.mp3",
+      "teacher": "Shakyamuni Buddha",
+      "category": "Enlightenment"
+    },
+    {
+      "id": "10",
+      "title": "Om Shanti Shanti Shanti",
+      "description": "Peace mantra",
+      "duration": 5,
+      "image": "assets/images/peace.png",
+      "audioUrl": "assets/audio/peace.mp3",
+      "teacher": "Various Masters",
+      "category": "Peace"
+    },
+    {
+      "id": "11",
+      "title": "Buddham Saranam Gacchami",
+      "description": "Three Refuges chant",
+      "duration": 13,
+      "image": "assets/images/three_refuges.png",
+      "audioUrl": "assets/audio/three_refuges.mp3",
+      "teacher": "Traditional",
+      "category": "Refuge"
+    },
+    {
+      "id": "12",
+      "title": "Om Padmo Ushnisha Vimale Hum Phat",
+      "description": "White Umbrella mantra",
+      "duration": 9,
+      "image": "assets/images/white_umbrella.png",
+      "audioUrl": "assets/audio/white_umbrella.mp3",
+      "teacher": "Ushnisha Sitatapatra",
+      "category": "Protection"
+    }
+  ]
+  

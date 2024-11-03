@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "title": "Om Mani Padme Hum",
+      "description": "The jewel in the lotus",
+      "duration": 10,
+      "image": "assets/images/om_mani.png",
+      "audioUrl": "https://cdn.pixabay.com/download/audio/2022/02/01/audio_c4e5e245d2.mp3?filename=yoga-music-relax-16182.mp3",
+      "teacher": "Dalai Lama",
+      "category": "Compassion"
+    },
+    {
+      "id": "2", 
+      "title": "Om Tare Tuttare Ture",
+      "description": "Green Tara mantra",
+      "duration": 8,
+      "image": "assets/images/green_tara.png",
+      "audioUrl": "https://cdn.pixabay.com/download/audio/2024/01/17/audio_c67ca2a5a7.mp3?filename=echoes-of-heaven-meditation-186652.mp3", 
+      "teacher": "Thich Nhat Hanh",
+      "category": "Protection"
+    }
+  ]
+  
