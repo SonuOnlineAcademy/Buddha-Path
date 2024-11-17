@@ -1,0 +1,298 @@
+{
+    "quotes": [
+      {
+        "text": "मन ही सब कुछ है। जैसा आप सोचते हैं, वैसा आप बनते हैं।",
+        "author": "बुद्ध",
+        "category": "wisdom",
+        "backgroundColor": "#FFE0E0",
+        "isFavorite": false
+      },
+      {
+        "text": "कोई हमें बचाने नहीं आता। हमें खुद ही अपने पथ पर चलना होगा।",
+        "author": "बुद्ध",
+        "category": "wisdom",
+        "backgroundColor": "#FFE0E0",
+        "isFavorite": false
+      },
+      {
+        "text": "जीवन में असली विफलता यही है कि हम अपने श्रेष्ठ को नहीं पहचानते।",
+        "author": "बुद्ध",
+        "category": "wisdom",
+        "backgroundColor": "#FFE0E0",
+        "isFavorite": false
+      },
+      {
+        "text": "आपको अपने क्रोध के लिए दंडित नहीं किया जाएगा, आपको अपने क्रोध द्वारा ही दंडित किया जाएगा।",
+        "author": "बुद्ध",
+        "category": "wisdom",
+        "backgroundColor": "#FFE0E0",
+        "isFavorite": false
+      },
+      {
+        "text": "स्वयं को जीतना दूसरों को जीतने से बड़ा कार्य है।",
+        "author": "बुद्ध",
+        "category": "wisdom",
+        "backgroundColor": "#FFE0E0",
+        "isFavorite": false
+      },
+      {
+        "text": "मुसीबत यह है कि आप सोचते हैं कि आपके पास समय है।",
+        "author": "बुद्ध",
+        "category": "wisdom",
+        "backgroundColor": "#FFE0E0",
+        "isFavorite": false
+      },
+      {
+        "text": "खुशी का कोई रास्ता नहीं है, खुशी ही रास्ता है।",
+        "author": "बुद्ध",
+        "category": "wisdom",
+        "backgroundColor": "#FFE0E0",
+        "isFavorite": false
+      },
+      {
+        "text": "अंत में केवल तीन चीजें महत्वपूर्ण हैं: आपने कितना प्रेम किया, आपने कितनी सहजता से जीवन जिया, और आपने उन चीजों को कितनी शालीनता से छोड़ा जो आपके लिए नहीं थीं।",
+        "author": "बुद्ध",
+        "category": "wisdom",
+        "backgroundColor": "#FFE0E0",
+        "isFavorite": false
+      },
+      {
+        "text": "आपका कार्य आपका उद्देश्य खोजने के लिए है और फिर पूरे मन से उसे पूरा करने के लिए समर्पित होना।",
+        "author": "बुद्ध",
+        "category": "wisdom",
+        "backgroundColor": "#FFE0E0",
+        "isFavorite": false
+      },
+      {
+        "text": "यदि आप किसी के लिए दीप जलाते हैं, तो यह आपका रास्ता भी उज्ज्वल करेगा।",
+        "author": "बुद्ध",
+        "category": "wisdom",
+        "backgroundColor": "#FFE0E0",
+        "isFavorite": false
+      },
+      {
+        "text": "शांति भीतर से आती है। इसे बाहर मत खोजो।",
+        "author": "बुद्ध",
+        "category": "peace",
+        "backgroundColor": "#E0F0FF",
+        "isFavorite": false
+      },
+      {
+        "text": "हजार खोखले शब्दों से बेहतर एक शब्द है जो शांति लाता है।",
+        "author": "बुद्ध",
+        "category": "peace",
+        "backgroundColor": "#E0F0FF",
+        "isFavorite": false
+      },
+      {
+        "text": "जो लोग नाराज विचारों से मुक्त होते हैं, वे निस्संदेह शांति प्राप्त करते हैं।",
+        "author": "बुद्ध",
+        "category": "peace",
+        "backgroundColor": "#E0F0FF",
+        "isFavorite": false
+      },
+      {
+        "text": "सब कुछ समझना ही सब कुछ क्षमा करना है।",
+        "author": "बुद्ध",
+        "category": "peace",
+        "backgroundColor": "#E0F0FF",
+        "isFavorite": false
+      },
+      {
+        "text": "घृणा से घृणा समाप्त नहीं होती, केवल प्रेम से होती है; यह शाश्वत नियम है।",
+        "author": "बुद्ध",
+        "category": "peace",
+        "backgroundColor": "#E0F0FF",
+        "isFavorite": false
+      },
+      {
+        "text": "जो कुछ आपने प्राप्त किया है उसका अधिक मूल्यांकन न करें, न ही दूसरों से ईर्ष्या करें। जो दूसरों से ईर्ष्या करता है उसे मन की शांति प्राप्त नहीं होती।",
+        "author": "बुद्ध",
+        "category": "peace",
+        "backgroundColor": "#E0F0FF",
+        "isFavorite": false
+      },
+      {
+        "text": "यह व्यक्ति का स्वयं का मन है, न कि उसका शत्रु या विरोधी, जो उसे बुरे रास्तों की ओर आकर्षित करता है।",
+        "author": "बुद्ध",
+        "category": "peace",
+        "backgroundColor": "#E0F0FF",
+        "isFavorite": false
+      },
+      {
+        "text": "दृढ़ता से स्वयं को शांति प्राप्त करने के लिए प्रशिक्षित करें।",
+        "author": "बुद्ध",
+        "category": "peace",
+        "backgroundColor": "#E0F0FF",
+        "isFavorite": false
+      },
+      {
+        "text": "जो कुछ भी आरंभ होता है उसका अंत होता है। इससे शांति बना लो और सब ठीक हो जाएगा।",
+        "author": "बुद्ध",
+        "category": "peace",
+        "backgroundColor": "#E0F0FF",
+        "isFavorite": false
+      },
+      {
+        "text": "यदि हम एक फूल के चमत्कार को स्पष्ट रूप से देख सकें, तो हमारा संपूर्ण जीवन बदल जाएगा।",
+        "author": "बुद्ध",
+        "category": "peace",
+        "backgroundColor": "#E0F0FF",
+        "isFavorite": false
+      },
+      {
+        "text": "तीन चीजें लंबे समय तक छिप नहीं सकतीं: सूरज, चंद्रमा, और सत्य।",
+        "author": "बुद्ध",
+        "category": "truth",
+        "backgroundColor": "#E0FFE0",
+        "isFavorite": false
+      },
+      {
+        "text": "सत्य की ओर जाने वाले मार्ग में केवल दो गलतियाँ हो सकती हैं; पूरा रास्ता न जाना और प्रारंभ न करना।",
+        "author": "बुद्ध",
+        "category": "truth",
+        "backgroundColor": "#E0FFE0",
+        "isFavorite": false
+      },
+      {
+        "text": "किसी पर विश्वास न करें, चाहे वह कोई भी हो, चाहे मैंने ही क्यों न कहा हो, जब तक कि वह आपकी स्वयं की तर्क और सामान्य समझ से मेल न खाता हो।",
+        "author": "बुद्ध",
+        "category": "truth",
+        "backgroundColor": "#E0FFE0",
+        "isFavorite": false
+      },
+      {
+        "text": "सत्य हमेशा सुंदर नहीं होता, और सुंदर शब्द हमेशा सत्य नहीं होते।",
+        "author": "बुद्ध",
+        "category": "truth",
+        "backgroundColor": "#E0FFE0",
+        "isFavorite": false
+      },
+      {
+        "text": "जीवन में असली विफलता यही है कि हम अपने श्रेष्ठ को नहीं पहचानते।",
+        "author": "बुद्ध",
+        "category": "truth",
+        "backgroundColor": "#E0FFE0",
+        "isFavorite": false
+      },
+      {
+        "text": "जो बुद्धिमानी से जीया हो, उसे मृत्यु से डरने की आवश्यकता नहीं है।",
+        "author": "बुद्ध",
+        "category": "truth",
+        "backgroundColor": "#E0FFE0",
+        "isFavorite": false
+      },
+      {
+        "text": "रास्ता आकाश में नहीं है, रास्ता ह्रदय में है।",
+        "author": "बुद्ध",
+        "category": "truth",
+        "backgroundColor": "#E0FFE0",
+        "isFavorite": false
+      },
+      {
+        "text": "यदि आप दिशा नहीं बदलते हैं, तो आप जहाँ जा रहे हैं वहीं पहुँच सकते हैं।",
+        "author": "बुद्ध",
+        "category": "truth",
+        "backgroundColor": "#E0FFE0",
+        "isFavorite": false
+      },
+      {
+        "text": "जीभ एक तेज चाकू की तरह है... यह खून बहाए बिना मार डालता है।",
+        "author": "बुद्ध",
+        "category": "truth",
+        "backgroundColor": "#E0FFE0",
+        "isFavorite": false
+      },
+      {
+        "text": "विवाद में जैसे ही हमें गुस्सा आता है, हम सत्य की खोज छोड़ देते हैं और अपने लिए लड़ना शुरू कर देते हैं।",
+        "author": "बुद्ध",
+        "category": "truth",
+        "backgroundColor": "#E0FFE0",
+        "isFavorite": false
+      },
+      {
+        "text": "स्वास्थ्य सबसे बड़ा उपहार है, संतोष सबसे बड़ी संपत्ति है, और विश्वास सबसे अच्छा संबंध है।",
+        "author": "बुद्ध",
+        "category": "truth",
+        "backgroundColor": "#E0FFE0",
+        "isFavorite": false
+      },
+        {
+            "text": "स्वास्थ्य सबसे बड़ा धन है। संतोष सबसे बड़ा खजाना है। आत्मविश्वास सबसे बड़ा मित्र है। अस्तित्वहीनता सबसे बड़ी खुशी है।",
+            "author": "बुद्ध",
+            "category": "health",
+            "backgroundColor": "#FFE0FF",
+            "isFavorite": false
+          },
+          {
+            "text": "अतीत में न जीएं, भविष्य का सपना न देखें, वर्तमान क्षण पर ध्यान केंद्रित करें।",
+            "author": "बुद्ध",
+            "category": "mindfulness",
+            "backgroundColor": "#FFF0E0",
+            "isFavorite": false
+          },
+          {
+            "text": "मन सब कुछ है। जैसा आप सोचते हैं, वैसा आप बन जाते हैं।",
+            "author": "बुद्ध",
+            "category": "mindfulness",
+            "backgroundColor": "#FFF0E0",
+            "isFavorite": false
+          },
+          {
+            "text": "आपका सबसे बुरा दुश्मन आपको उतना नुकसान नहीं पहुंचा सकता जितना कि आपके अपने असंयमित विचार।",
+            "author": "बुद्ध",
+            "category": "mindfulness",
+            "backgroundColor": "#FFF0E0",
+            "isFavorite": false
+          },
+          {
+            "text": "ध्यान करें... विलंब न करें, अन्यथा बाद में आपको इसका पछतावा हो सकता है।",
+            "author": "बुद्ध",
+            "category": "mindfulness",
+            "backgroundColor": "#FFF0E0",
+            "isFavorite": false
+          },
+          {
+            "text": "जैसे सांप अपनी केंचुल उतारता है, वैसे ही हमें बार-बार अपने अतीत को उतारना चाहिए।",
+            "author": "बुद्ध",
+            "category": "mindfulness",
+            "backgroundColor": "#FFF0E0",
+            "isFavorite": false
+          },
+          {
+            "text": "अतीत जा चुका है, भविष्य अभी आया नहीं है। आपके पास केवल एक ही क्षण है जिसमें आप जी सकते हैं।",
+            "author": "बुद्ध",
+            "category": "mindfulness",
+            "backgroundColor": "#FFF0E0",
+            "isFavorite": false
+          },
+          {
+            "text": "यदि कोई व्यक्ति शुद्ध मन से बोलता या कार्य करता है, तो उसे खुशी उसी तरह से मिलती है जैसे कि कभी न छूटने वाली छाया।",
+            "author": "बुद्ध",
+            "category": "mindfulness",
+            "backgroundColor": "#FFF0E0",
+            "isFavorite": false
+          },
+          {
+            "text": "सब कुछ समझना ही सब कुछ माफ करना है।",
+            "author": "बुद्ध",
+            "category": "mindfulness",
+            "backgroundColor": "#FFF0E0",
+            "isFavorite": false
+          },
+          {
+            "text": "दुःख की जड़ आसक्ति है।",
+            "author": "बुद्ध",
+            "category": "mindfulness",
+            "backgroundColor": "#FFF0E0",
+            "isFavorite": false
+          },
+          {
+            "text": "आकाश में पूर्व और पश्चिम का कोई भेद नहीं है; लोग अपने मन से भेद बनाते हैं और फिर उसे सत्य मान लेते हैं।",
+            "author": "बुद्ध",
+            "category": "mindfulness",
+            "backgroundColor": "#FFF0E0",
+            "isFavorite": false
+          }
+        ]
+      }

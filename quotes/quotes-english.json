@@ -1,0 +1,355 @@
+
+{
+  "quotes": [
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "category": "wisdom",
+      "backgroundColor": "#FFE0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
+      "author": "Buddha",
+      "category": "wisdom",
+      "backgroundColor": "#FFE0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "The only real failure in life is not to be true to the best one knows.",
+      "author": "Buddha",
+      "category": "wisdom",
+      "backgroundColor": "#FFE0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "You will not be punished for your anger, you will be punished by your anger.",
+      "author": "Buddha",
+      "category": "wisdom",
+      "backgroundColor": "#FFE0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "To conquer oneself is a greater task than conquering others.",
+      "author": "Buddha",
+      "category": "wisdom",
+      "backgroundColor": "#FFE0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "The trouble is, you think you have time.",
+      "author": "Buddha",
+      "category": "wisdom",
+      "backgroundColor": "#FFE0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "There is no path to happiness: happiness is the path.",
+      "author": "Buddha",
+      "category": "wisdom",
+      "backgroundColor": "#FFE0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "In the end, only three things matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.",
+      "author": "Buddha",
+      "category": "wisdom",
+      "backgroundColor": "#FFE0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "Your work is to discover your work and then with all your heart to give yourself to it.",
+      "author": "Buddha",
+      "category": "wisdom",
+      "backgroundColor": "#FFE0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "If you light a lamp for somebody, it will also brighten your path.",
+      "author": "Buddha",
+      "category": "wisdom",
+      "backgroundColor": "#FFE0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha",
+      "category": "peace",
+      "backgroundColor": "#E0F0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "Better than a thousand hollow words, is one word that brings peace.",
+      "author": "Buddha",
+      "category": "peace",
+      "backgroundColor": "#E0F0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "Those who are free of resentful thoughts surely find peace.",
+      "author": "Buddha",
+      "category": "peace",
+      "backgroundColor": "#E0F0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "To understand everything is to forgive everything.",
+      "author": "Buddha",
+      "category": "peace",
+      "backgroundColor": "#E0F0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "Hatred does not cease by hatred, but only by love; this is the eternal rule.",
+      "author": "Buddha",
+      "category": "peace",
+      "backgroundColor": "#E0F0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.",
+      "author": "Buddha",
+      "category": "peace",
+      "backgroundColor": "#E0F0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "It is a man's own mind, not his enemy or foe, that lures him to evil ways.",
+      "author": "Buddha",
+      "category": "peace",
+      "backgroundColor": "#E0F0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "Resolutely train yourself to attain peace.",
+      "author": "Buddha",
+      "category": "peace",
+      "backgroundColor": "#E0F0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "Everything that has a beginning has an ending. Make your peace with that and all will be well.",
+      "author": "Buddha",
+      "category": "peace",
+      "backgroundColor": "#E0F0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "If we could see the miracle of a single flower clearly, our whole life would change.",
+      "author": "Buddha",
+      "category": "peace",
+      "backgroundColor": "#E0F0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "category": "truth",
+      "backgroundColor": "#E0FFE0",
+      "isFavorite": false
+    },
+    {
+      "text": "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
+      "author": "Buddha",
+      "category": "truth",
+      "backgroundColor": "#E0FFE0",
+      "isFavorite": false
+    },
+    {
+      "text": "Believe nothing, no matter where you read it, or who said it, no matter if I have said it, unless it agrees with your own reason and your own common sense.",
+      "author": "Buddha",
+      "category": "truth",
+      "backgroundColor": "#E0FFE0",
+      "isFavorite": false
+    },
+    {
+      "text": "The truth is not always beautiful, nor beautiful words the truth.",
+      "author": "Buddha",
+      "category": "truth",
+      "backgroundColor": "#E0FFE0",
+      "isFavorite": false
+    },
+    {
+      "text": "The only real failure in life is not to be true to the best one knows.",
+      "author": "Buddha",
+      "category": "truth",
+      "backgroundColor": "#E0FFE0",
+      "isFavorite": false
+    },
+    {
+      "text": "Even death is not to be feared by one who has lived wisely.",
+      "author": "Buddha",
+      "category": "truth",
+      "backgroundColor": "#E0FFE0",
+      "isFavorite": false
+    },
+    {
+      "text": "The way is not in the sky. The way is in the heart.",
+      "author": "Buddha",
+      "category": "truth",
+      "backgroundColor": "#E0FFE0",
+      "isFavorite": false
+    },
+    {
+      "text": "If you do not change direction, you may end up where you are heading.",
+      "author": "Buddha",
+      "category": "truth",
+      "backgroundColor": "#E0FFE0",
+      "isFavorite": false
+    },
+    {
+      "text": "The tongue like a sharp knife... Kills without drawing blood.",
+      "author": "Buddha",
+      "category": "truth",
+      "backgroundColor": "#E0FFE0",
+      "isFavorite": false
+    },
+    {
+      "text": "In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.",
+      "author": "Buddha",
+      "category": "truth",
+      "backgroundColor": "#E0FFE0",
+      "isFavorite": false
+    },
+    {
+      "text": "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.",
+      "author": "Buddha",
+      "category": "health",
+      "backgroundColor": "#FFE0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.",
+      "author": "Buddha",
+      "category": "health",
+      "backgroundColor": "#FFE0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "Every human being is the author of his own health or disease.",
+      "author": "Buddha",
+      "category": "health",
+      "backgroundColor": "#FFE0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "Without health life is not life; it is only a state of languor and suffering - an image of death.",
+      "author": "Buddha",
+      "category": "health",
+      "backgroundColor": "#FFE0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "The secret of health for both mind and body is not to mourn for the past, not to worry about the future, or not to anticipate troubles, but to live in the present moment wisely and earnestly.",
+      "author": "Buddha",
+      "category": "health",
+      "backgroundColor": "#FFE0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind. If a man can control his mind he can find the way to Enlightenment, and all wisdom and virtue will naturally come to him.",
+      "author": "Buddha",
+      "category": "health",
+      "backgroundColor": "#FFE0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "He who has health has hope, and he who has hope has everything.",
+      "author": "Buddha",
+      "category": "health",
+      "backgroundColor": "#FFE0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "The greatest wealth is health.",
+      "author": "Buddha",
+      "category": "health",
+      "backgroundColor": "#FFE0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "Your body is precious. It is our vehicle for awakening. Treat it with care.",
+      "author": "Buddha",
+      "category": "health",
+      "backgroundColor": "#FFE0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "Health is the greatest possession. Contentment is the greatest treasure. Confidence is the greatest friend. Non-being is the greatest joy.",
+      "author": "Buddha",
+      "category": "health",
+      "backgroundColor": "#FFE0FF",
+      "isFavorite": false
+    },
+    {
+      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha",
+      "category": "mindfulness",
+      "backgroundColor": "#FFF0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "category": "mindfulness",
+      "backgroundColor": "#FFF0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
+      "author": "Buddha",
+      "category": "mindfulness",
+      "backgroundColor": "#FFF0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "Meditate... do not delay, lest you later regret it.",
+      "author": "Buddha",
+      "category": "mindfulness",
+      "backgroundColor": "#FFF0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "Just as a snake sheds its skin, we must shed our past over and over again.",
+      "author": "Buddha",
+      "category": "mindfulness",
+      "backgroundColor": "#FFF0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "The past is already gone, the future is not yet here. There's only one moment for you to live.",
+      "author": "Buddha",
+      "category": "mindfulness",
+      "backgroundColor": "#FFF0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow.",
+      "author": "Buddha",
+      "category": "mindfulness",
+      "backgroundColor": "#FFF0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "To understand everything is to forgive everything.",
+      "author": "Buddha",
+      "category": "mindfulness",
+      "backgroundColor": "#FFF0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "The root of suffering is attachment.",
+      "author": "Buddha",
+      "category": "mindfulness",
+      "backgroundColor": "#FFF0E0",
+      "isFavorite": false
+    },
+    {
+      "text": "In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.",
+      "author": "Buddha",
+      "category": "mindfulness",
+      "backgroundColor": "#FFF0E0",
+      "isFavorite": false
+    }
+  ]
+}
